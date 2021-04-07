@@ -6,6 +6,9 @@ module.exports = {
       zIndex: {
         "-1": "-1",
       },
+      // lineHeight: {
+      //   snug: "4.4rem",
+      // },
     },
     colors: {
       brightRed: {
@@ -18,7 +21,7 @@ module.exports = {
         DEFAULT: "hsl(227, 12%, 61%)",
       },
       darkBlue: {
-        DEFAULT: "hsl(233, 12%, 13%)",
+        DEFAULT: "hsl(228, 39%, 23%)",
       },
     },
   },
