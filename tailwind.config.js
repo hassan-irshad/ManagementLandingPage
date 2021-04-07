@@ -23,6 +23,9 @@ module.exports = {
       darkBlue: {
         DEFAULT: "hsl(228, 39%, 23%)",
       },
+      white: {
+        DEFAULT: "#ffffff",
+      },
     },
   },
   variants: {
